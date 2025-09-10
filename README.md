@@ -7,7 +7,7 @@ This is a Python project that calculates Basal Metabolic Rate (BMR) and daily nu
 (calories, protein, carbs, fat, sugar) based on user input (height, weight, age, gender).  
 
 The project was built to demonstrate my continued activity in software development 
-after earning my Associate Degree in Software Programming (Islamic Azad University, 2004).  
+after earning my Associate Degree in Software Programming (Islamic Azad University).  
 It also supports my current application for further studies in the U.S.  
 
 ## How to Run
